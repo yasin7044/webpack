@@ -1,0 +1,2 @@
+webpack -> to load files, and its allow to modulearize the code and finally it creates one singlefile.
+npm i webpack webpack-cli --save-dev
